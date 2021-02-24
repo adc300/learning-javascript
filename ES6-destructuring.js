@@ -53,7 +53,7 @@ const handle = ({ a, b = 0, c }) => {
   return a + b + c
 }
 handle({ a: 1, b: 2, c: 3 }) // 6
-
+// no one in here
 //Spread Syntax
 
 //Spread syntax hay còn gọi là cú pháp dấu ba chấm (three dots) là cú pháp giúp ta “phân rã” array và object thành các thuộc tính riêng biệt. 
