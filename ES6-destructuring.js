@@ -138,4 +138,5 @@ console.log(other) // {price: 200, quantity: 100}
 //Tóm lại
 //Destructuring, Rest Parameters và Spread Syntax là những thứ thường xuyên được dùng trong JS, 
 //  hy vọng qua những dòng code ngắn gọn của mình có thể giúp bạn hiểu nhanh được các khái niệm này.
-//Nếu chưa học thì có thể bạn sẽ thấy nó không liên quan nhưng thật ra thì chúng luôn hỗ trợ nhau :mrgreen:
+//Nếu chưa học thì có thể bạn sẽ thấy nó không liên quan nhưng thật ra thì chúng luôn hỗ trợ nhau :mrgreen
+// learn more about code
